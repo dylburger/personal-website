@@ -31,12 +31,6 @@ export default class Navigation extends Component {
           <Fade down duration={2000} className={styles.wrapper}>
             <nav className={styles.navigation}>
               <span>
-                <Link to="/about" activeClassName="active">
-                  About
-                </Link>
-                <Link to="/contact" activeClassName="active">
-                  Contact
-                </Link>
                 <a
                   href="dylan-sather-resume.pdf"
                   target="_blank"
@@ -81,18 +75,6 @@ export default class Navigation extends Component {
               width="100%">
               <Link to="/" onClick={() => this.closeMenu()}>
                 <h1>{config.siteTitle}</h1>
-              </Link>
-              <Link
-                to="/about"
-                activeClassName="active"
-                onClick={() => this.closeMenu()}>
-                About
-              </Link>
-              <Link
-                to="/contact"
-                activeClassName="active"
-                onClick={() => this.closeMenu()}>
-                Contact
               </Link>
               <a
                 href="dylan-sather-resume.pdf"

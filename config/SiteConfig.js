@@ -4,7 +4,7 @@ module.exports = {
   siteTitleAlt: 'Dylan Sather Personal Website', // Alternative Site title for SEO
   siteUrl: 'https://dylburger.com/', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
+  siteLogo: './favicon.ico', // Used for SEO and manifest
   siteDescription: 'Dylan Sather Personal Website',
   userTwitter: 'DylanSather', // Twitter Username
   // og: Meta Tags
