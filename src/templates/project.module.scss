@@ -9,7 +9,7 @@
 .headerWrapper {
   margin-bottom: 3rem;
   margin-top: 1rem;
-  min-height: 25rem;
+  min-height: 10rem;
   position: relative;
   width: 100%;
 }
@@ -17,8 +17,7 @@
 .header {
   background-color: $brand-primary;
   color: #fff;
-  height: 25rem;
-  padding: 6rem $distance;
+  padding: 2rem $distance;
   position: absolute;
   text-align: center;
   transition: all 0.5s;
