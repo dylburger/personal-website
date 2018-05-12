@@ -8,7 +8,7 @@ module.exports = {
   siteDescription: 'Dylan Sather Personal Website',
   userTwitter: 'DylanSather', // Twitter Username
   // og: Meta Tags
-  googleAnalyticsID: 'UA-12345689-1',
+  googleAnalyticsID: 'UA-63348257-2',
   copyright: 'Copyright © 2018. Dylan Sather.', // Copyright in the footer of the site
   // You can translate these three words into your language if you want.
   // They'll be shown on the project page header
