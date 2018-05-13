@@ -4,6 +4,7 @@ title: "Should It Be A Meeting?"
 cover: "./sibam.png"
 date: "2017-10-27"
 service: "MailCoach"
+description: "Lightweight React app to help you think twice about whether you really need to have that meeting"
 ---
 
 [Should It Be A Meeting?](https://shoulditbeameeting.com/#/) was a fun weekend project we developed at MailCoach to help people think twice about scheduling meetings.
