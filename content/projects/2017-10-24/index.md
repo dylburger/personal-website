@@ -3,7 +3,7 @@ client: "Trump's Tangents"
 title: "Trump's Tangents"
 cover: "./trump.png"
 date: "2017-10-24"
-service: "MailCoach"
+service: "Personal"
 description: "D3.js visualization of Trump Fox & Friends Interview"
 ---
 
