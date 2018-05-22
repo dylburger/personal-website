@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Link from 'gatsby-link';
 import Headroom from 'react-headroom';
-import {FaGithub, FaLinkedinSquare} from 'react-icons/lib/fa';
+import {FaGithub, FaLinkedinSquare, FaMedium} from 'react-icons/lib/fa';
 import {slide as Menu} from 'react-burger-menu';
 import {Fade} from 'react-reveal';
 import config from '../../../config/SiteConfig';
@@ -59,6 +59,12 @@ export default class Navigation extends Component {
                   target="_blank"
                   rel="noopener noreferrer">
                   <FaGithub />
+                </a>
+                <a
+                  href="https://medium.com/@dylan.sather"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  <FaMedium />
                 </a>
               </span>
             </div>
