@@ -1,10 +1,10 @@
 ---
-client: "Wedding Website with GatsbyJS & CloudFormation"
-title: "Wedding Website with GatsbyJS & CloudFormation"
+client: "Wedding Website"
+title: "Wedding Website"
 cover: "./wedding.png"
 date: "2017-10-23"
 service: "Personal"
-description: "Wedding Website with GatsbyJS & CloudFormation"
+description: "Wedding website with GatsbyJS & CloudFormation"
 ---
 
 I used our [wedding website](https://dylbaum.com/) as an opportunity to play with [GatsbyJS](https://www.gatsbyjs.org/). I'm also a huge fan of using CloudFormation to manage all the resources tied to single page apps (ACM certificate, Route53 records, Cloudfront distribution and S3 buckets).
