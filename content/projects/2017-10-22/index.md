@@ -14,3 +14,5 @@ I'm fascinated with the idea of [CloudFormation](https://aws.amazon.com/cloudfor
 * How do you package and deploy apps on [PyPi](https://pypi.org/)?
 
 I built a tool called [`awsbudget`](https://pypi.org/project/awsbudget/), that gives users a command-line tool to create a budget in AWS. Behind the scenes, the tool creates a CloudFormation stack to manage this budget.
+
+I also [wrote about what I learned building this tool](https://medium.com/@dylan.sather/building-your-first-python-command-line-app-d961e1097905).
